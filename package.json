@@ -1,0 +1,27 @@
+{
+  "name": "react-native-gp-style",
+  "version": "1.0.1",
+  "description": "以最简单的方式编写样式代码,抛弃react-native标准的样式创建方式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "rn",
+    "RN",
+    "style",
+    "styles",
+    "easy",
+    "global",
+    "stylesheet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geek-prince/react-native-gp-style.git"
+  },
+  "author": "geek-prince",
+  "license": "MIT"
+}
